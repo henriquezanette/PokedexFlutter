@@ -1,16 +1,35 @@
-# pokemon_flutter
+<h1 align="center"> Pokedéx </h1>
 
-A new Flutter project.
+<p > O projeto da Pokedéx em Flutter serviu como ferramenta para exercitar o que tenho aprendido em sobre a linguagem. Servindo também como prática para a utilização da arquitetura BLOC. </p>
 
-## Getting Started
+## 📷 Demonstração do projeto
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img width="260" height="570" src="https://user-images.githubusercontent.com/70667966/139454716-f101b468-8dac-45ad-a1f1-d7a3b981c65d.gif">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias
+<p> Tecnologias utilizadas no projeto </p>
+<ul>
+  <li>Flutter</li>
+  <li>PokemonGO API</li>
+</ul>
+
+## 🔧 Arquitetura
+<p> Este projeto utiliza da arquitetura BLOC, que consiste no manuseio de estados de uma aplicação em Flutter. De forma sucinta, cada BLOC possui estados que guardam as mudanças da aplicação e eventos que são enviados ao usuário de acordo com o estado.</p>
+
+## ⚙️ Configuração
+<p> Para rodar este projeto é necessário possuir um emulador ou conexão com um dispositivo móvel no computador! </p>
+
+<p> Após clonar o projeto, execute no terminal: </p>
+<p> 1 - Para instalar as dependências </p>
+
+> dart pub get
+
+<p> 2 - Para rodar o projeto </p>
+
+> Aperte CTRL + F5
+
+
